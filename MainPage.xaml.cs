@@ -5,6 +5,7 @@ public partial class MainPage : ContentPage
 	decimal bill;
 	int tip;
 	int noPersons = 1;
+	int pruebajeje;
 
 	public MainPage()
 	{
